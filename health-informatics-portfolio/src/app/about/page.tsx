@@ -4,10 +4,10 @@ export default function About() {
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-gray-800 mb-8">About Me</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div>
+          <div className="w-full ,max-w-md mx auto">
             <img
-              src="/images/profile.jpg"
-              alt="Profile"
+              src="/images/Kennedy pic.jpg" 
+              alt="Profile" 
               className="rounded-lg shadow-lg"
             />
           </div>
